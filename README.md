@@ -10,6 +10,8 @@ You can review the project and provide feedback on necessary situations.
 
 Please take a look at the two images below of the project.
 
+![Animation1](https://github.com/oranmehmetsirin/Clone-of-YouTube/blob/main/gif1.gif?raw=true)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
